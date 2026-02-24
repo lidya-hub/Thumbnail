@@ -1,0 +1,41 @@
+            .doro {
+               width:100%;
+            }
+           
+            .parpa {
+                display:inline-block;
+                line-height:25px;
+            }
+            .a {
+            font-size:14px;
+            font-family:Roboto, Arial, sans-serif;
+            font-weight:bold;
+            width:200px;
+            margin-bottom:6px;
+            }
+            
+             .daro {
+                height:40px;
+                width:40px;
+                border-radius:20px;
+                object-fit:cover;
+                margin-right:9px;
+                vertical-align:top;
+            }
+           
+            .b {
+                color:grey;
+                margin-bottom:7px;
+            }
+            .video-grid {
+                display:grid;
+                grid-template-columns:1fr 1fr 1fr;
+                column-gap:30px;
+                row-gap:20px;
+            }
+            .all {
+                width:100%;
+            }
+
+
+     
